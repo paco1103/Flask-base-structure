@@ -1,6 +1,6 @@
 # flask-base-structure
-This is basic structure for more easier to start Flask project
-Include follow feature:
+<p>This is basic structure for more easier to start Flask project</p>
+<p>Include follow feature:</p>
 <ul>
   <li>Log</li>
   <li>Cache</li>
@@ -9,4 +9,4 @@ Include follow feature:
   <li>Csrf</li>
 </ul>
 
-*Flask default is single threat, need to start the service with 'gunicorn + gevent' with multi worker
+<p>*Flask default is single threat, need to start the service with 'gunicorn + gevent' with multi worker</p>
